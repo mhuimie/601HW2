@@ -74,7 +74,7 @@ public class MainActivity extends AppCompatActivity {
         super.onDestroy();
     }
 
-    //播放音乐的方法
+    //play music
     private void play1(){
         try{
             mediaPlayer.reset();//reset music
